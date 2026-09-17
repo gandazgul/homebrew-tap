@@ -1,0 +1,28 @@
+{
+    "testOnly": false,
+    "wldTag": "v0.10.1",
+    "mnemotecaTag": "v0.3.3",
+    "generatedAt": "2026-09-17T20:57:32.108Z",
+    "formulas": [
+        "Formula/wld.rb",
+        "Formula/mnemoteca.rb"
+    ],
+    "testedDependencies": {
+        "cymbal": {
+            "formula": "1broseidon/tap/cymbal",
+            "testedVersion": "v0.7.7"
+        },
+        "ketch": {
+            "formula": "1broseidon/tap/ketch",
+            "testedVersion": "v0.8.3"
+        },
+        "agentBrowser": {
+            "formula": "agent-browser",
+            "testedVersion": "v0.2.7"
+        },
+        "git": {
+            "formula": "git",
+            "testedVersion": "2.51.0"
+        }
+    }
+}
