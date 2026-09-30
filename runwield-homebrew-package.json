@@ -1,8 +1,8 @@
 {
     "testOnly": false,
-    "wldTag": "v0.11.1",
+    "wldTag": "v0.11.3",
     "mnemotecaTag": "v0.3.3",
-    "generatedAt": "2026-09-27T15:41:28.521Z",
+    "generatedAt": "2026-09-30T05:57:57.628Z",
     "formulas": [
         "Formula/wld.rb",
         "Formula/mnemoteca.rb"
