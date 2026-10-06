@@ -1,28 +1,28 @@
 {
-    "testOnly": false,
-    "wldTag": "v0.11.4",
-    "mnemotecaTag": "v0.3.3",
-    "generatedAt": "2026-10-03T14:34:22.437Z",
-    "formulas": [
-        "Formula/wld.rb",
-        "Formula/mnemoteca.rb"
-    ],
-    "testedDependencies": {
-        "cymbal": {
-            "formula": "1broseidon/tap/cymbal",
-            "testedVersion": "v0.7.7"
-        },
-        "ketch": {
-            "formula": "ketch",
-            "testedVersion": "v0.8.3"
-        },
-        "agentBrowser": {
-            "formula": "agent-browser",
-            "testedVersion": "v0.2.7"
-        },
-        "git": {
-            "formula": "git",
-            "testedVersion": "2.51.0"
-        }
+  "testOnly": false,
+  "wldTag": "v0.11.4",
+  "mnemotecaTag": "v0.3.4",
+  "generatedAt": "2026-10-06T17:43:01Z",
+  "formulas": [
+    "Formula/wld.rb",
+    "Formula/mnemoteca.rb"
+  ],
+  "testedDependencies": {
+    "cymbal": {
+      "formula": "1broseidon/tap/cymbal",
+      "testedVersion": "v0.7.7"
+    },
+    "ketch": {
+      "formula": "ketch",
+      "testedVersion": "v0.8.3"
+    },
+    "agentBrowser": {
+      "formula": "agent-browser",
+      "testedVersion": "v0.2.7"
+    },
+    "git": {
+      "formula": "git",
+      "testedVersion": "2.51.0"
     }
+  }
 }
